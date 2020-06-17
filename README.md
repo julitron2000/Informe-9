@@ -6,9 +6,29 @@ AUTORES: DAVID HINOJOSA,
 
 ## 1. PLANTEAMIENTO DEL PROBLEMA
 
+Al momento de analizar circuitos, frecuentemente, se presentan casos en los que es indispensable aplicar un análisis por método de nodos , por lo que conocer y saber utilizar este método debe ser un requisito necesario e indispensable para realizar cualquier análisis de un circuito tanto en la práctica como en la teoría.
+
 ## 2. OBJETIVOS
+-Comprobar experimentalmente el analisis de nodos
+-Medir y registrar el voltaje en los nodos.
+-Determinar el porcentaje de error entre el valor teorico y experimental.
 
 ## 3. MARCO TEÓRICO 
+![image](https://user-images.githubusercontent.com/64505672/84841727-c0420300-b008-11ea-8a18-e0b44ba6129a.png)
+
+Un nodo es el punto en donde se conectan diferentes elementos en un circuito, en el cual se puede medir el voltaje que cae en este punto, basándonos en la ley de corrientes Kirchhoff y la ley de Ohm.
+# Método de Nodos
+
+![image](https://user-images.githubusercontent.com/64505672/84841694-ac969c80-b008-11ea-88e9-abf614eb50b4.png)
+
+El método de Nodos es un método utilizado para resolver cualquier tipo de circuitos.
+
+![image](https://user-images.githubusercontent.com/64505672/84841751-db147780-b008-11ea-9d40-00c5b02e7e4f.png)
+
+Los pasos para determinar la caida de voltaje en un nodo son:
+1. Determinar las corrientes que entran y salen en cada nodo.
+2. Aplique la LCK en cada uno de los n nodos. Use la ley de Ohm para expresar las corrientes en términos de los voltaje que caen en los elementos, considerando que la corriente sera igual a la diferencia de voltaje sobre la resistencia y considerando que el voltaje en tieera es cero.
+3. Resuelva las n ecuaciones simultáneas resultantes para obtener el voltaje en cada nodo.
 
 ## 4. DIAGRAMAS
 
@@ -61,7 +81,8 @@ H. Protoboard
 ## 6. DESCRIPCION DE PREREQUISITOS Y CONFIGURACION
 
 ## 7. CRONOGRAMA
-![0006](https://user-images.githubusercontent.com/66037557/84841262-70167100-b007-11ea-9910-d1d3f00f408a.png)
+
+
 ## 8.CONCLUSIONES
 
 
