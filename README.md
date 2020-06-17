@@ -61,8 +61,7 @@ H. Protoboard
 ## 6. DESCRIPCION DE PREREQUISITOS Y CONFIGURACION
 
 ## 7. CRONOGRAMA
-
-
+![0006](https://user-images.githubusercontent.com/66037557/84841262-70167100-b007-11ea-9910-d1d3f00f408a.png)
 ## 8.CONCLUSIONES
 
 
