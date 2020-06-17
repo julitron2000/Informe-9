@@ -45,36 +45,36 @@ Se observan las conecciones y se identifican los nodos a los que se debe hacer e
 Los nodos encerrados en rojo son donde tomará lugar el análisis de nodos. El voltaje que entra a cada uno de estos, está representado por las flechas rojas, de igual manera el voltaje saliente que tienen dirección vertical y con sentido hacia tierra. 
 
 ## 5. LISTA DE COMPONENTES
-A. Fuente de Voltaje de C.D.
+A. 2 Fuentes de Voltaje de C.D. (12 y 8 V. respectivamente)
 
 
 ![chrome_FxjHlWp3kM](https://user-images.githubusercontent.com/66037763/84236034-96df1f80-aabc-11ea-9159-3d2235bc315b.png)
 
 
-B. Multímetro Digital
+B. Multímetros Digitales (los que se encuentre necesarios)
 
 ![chrome_1E7H2m0GOE](https://user-images.githubusercontent.com/66037763/84236069-a6f6ff00-aabc-11ea-90f8-49d128847e17.png)
 
 
-C. Resistor de 820 Ω
+C. Resistor de 1.8 kΩ
 
 
 ![chrome_H59RekD0Sn](https://user-images.githubusercontent.com/66037763/84236097-b4ac8480-aabc-11ea-88e9-0930cd8a6151.png)
 
 
-D. Resistor de 390 Ω
+D. Resistor de 470 Ω
 
 
 ![chrome_nYj42XTcAA](https://user-images.githubusercontent.com/66037763/84236121-bc6c2900-aabc-11ea-9052-20d1e126c649.png)
 
 
-E. Resistor de 1 kΩ
+E. Resistor de 1.5 kΩ
 
 
 ![chrome_jPVmQCB5dn](https://user-images.githubusercontent.com/66037763/84236149-cbeb7200-aabc-11ea-96d9-4b01e8f8ef81.png)
 
 
-F. Resistor de 1.2 kΩ
+F. Resistor de 3.9 kΩ
 
 
 ![chrome_RgP3H68Ui2](https://user-images.githubusercontent.com/66037763/84236162-d60d7080-aabc-11ea-864d-536485900f86.png)
@@ -91,6 +91,25 @@ H. Protoboard
 
 
 ## 6. DESCRIPCION DE PREREQUISITOS Y CONFIGURACION
+
+Después de los respectivos cálculos y mediciones prácticas, se obtuvieron los resultados de cada uno de los dos nodos por analizar y se los ordenó dentro de la siguiente tabla:
+
+![WINWORD_6wRyIqYdmd](https://user-images.githubusercontent.com/66037763/84852156-b2e54280-b021-11ea-9b85-0f531e1349e8.png)
+
+
+Una vez obtenidos los datos, se procede a calcular el porcentaje de error de los resultados obtenidos experimentalmente, comparados con los obtenidos analíticamente: 
+
+
+![WINWORD_pXoChW7GaK](https://user-images.githubusercontent.com/66037763/84852543-c47b1a00-b022-11ea-9332-b95da92dea84.png)
+
+
+![WINWORD_M4pKwobPV9](https://user-images.githubusercontent.com/66037763/84852656-04420180-b023-11ea-95a4-370f6b5923a3.png)
+
+
+Finalmente, el circuito puesto a prueba: 
+
+![Tinker](https://user-images.githubusercontent.com/66037763/84852749-33587300-b023-11ea-8052-10f689380e30.jpg)
+
 
 ## 7. CRONOGRAMA
 ![0006](https://user-images.githubusercontent.com/66037557/84841262-70167100-b007-11ea-9910-d1d3f00f408a.png)
