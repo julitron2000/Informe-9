@@ -31,6 +31,18 @@ Los pasos para determinar la caida de voltaje en un nodo son:
 3. Resuelva las n ecuaciones simultáneas resultantes para obtener el voltaje en cada nodo.
 
 ## 4. DIAGRAMAS
+Del circuito base:
+
+![Circuito](https://user-images.githubusercontent.com/66037763/84849909-0785bf00-b01c-11ea-854a-a0eaf524f16f.png)
+
+
+Se observan las conecciones y se identifican los nodos a los que se debe hacer el respectivo análisis:
+
+
+![CircuitosNodos](https://user-images.githubusercontent.com/66037763/84850917-8f6cc880-b01e-11ea-9627-a9fe10551303.png)
+
+
+Los nodos encerrados en rojo son donde tomará lugar el análisis de nodos. El voltaje que entra a cada uno de estos, está representado por las flechas rojas, de igual manera el voltaje saliente que tienen dirección vertical y con sentido hacia tierra. 
 
 ## 5. LISTA DE COMPONENTES
 A. Fuente de Voltaje de C.D.
