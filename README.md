@@ -85,13 +85,18 @@ H. Protoboard
 
 
 ## 8.CONCLUSIONES
--Se logro comprobobar los voltajes de 
+-Se concluyó gracias al análisis nodos, el valor analítico de los voltajes en el nodo1=2.82028 y nodo2=4.80195  .
+
+-se logró comprobar que tanto los voltajes calculados en los respectivos nodos como los medidos poseen un bajo grado de error, siendo el error en el nodo1=0.00993% y en el nodo2=0.042%.
+
+-se concluye que la razón por la que el error es muy pequeño se debe a que el simulador posee una incertidumbre casi nula, a diferencia de la vida real en la que la que las tolerancias de nuestras resistencias pueden variar.
 
 ## 9.RECOMENDACIONES
+-Tener cuidado al tomar la medida de caída de tensión en nuestros nodos, podemos obtener valores erróneos.
 
 -Armar el circuito de una forma didáctica para que todos puedan entender el funcionamiento del mismo.
 
--Hacer las respectivas mediciones con cuidado para no obtener datos errónes.
+-Utilizar la mayor cantidad de decimales posibles en el cálculo, para sacar un grado de error mas significativo.
 
 ## 10. BIBLIOGRAFÍA
 
