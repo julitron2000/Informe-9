@@ -14,10 +14,10 @@ Al momento de analizar circuitos, frecuentemente, se presentan casos en los que 
 -Determinar el porcentaje de error entre el valor teorico y experimental.
 
 ## 3. MARCO TEÓRICO 
-![image](https://user-images.githubusercontent.com/64505672/84841727-c0420300-b008-11ea-8a18-e0b44ba6129a.png)
+![image](https://user-images.githubusercontent.com/64505672/84841818-10b96080-b009-11ea-8c5f-862ff4ee8891.png)
 
 Un nodo es el punto en donde se conectan diferentes elementos en un circuito, en el cual se puede medir el voltaje que cae en este punto, basándonos en la ley de corrientes Kirchhoff y la ley de Ohm.
-# Método de Nodos
+### Método de Nodos
 
 ![image](https://user-images.githubusercontent.com/64505672/84841694-ac969c80-b008-11ea-88e9-abf614eb50b4.png)
 
