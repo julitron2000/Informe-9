@@ -6,12 +6,16 @@ AUTORES: DAVID HINOJOSA,
 
 ## 1. PLANTEAMIENTO DEL PROBLEMA
 
-Al momento de analizar circuitos, frecuentemente, se presentan casos en los que es indispensable aplicar un análisis por método de nodos , por lo que conocer y saber utilizar este método debe ser un requisito necesario e indispensable para realizar cualquier análisis de un circuito tanto en la práctica como en la teoría.
+En los circuitos eléctricos existen elementos llamados capacitores e inductores, son usados en practicamaente todos los circuitos de los diferentes electrodomesticos, por ello es importante aprender a realizar las mediciones de voltaje y corriente con estos elementos.
 
 ## 2. OBJETIVOS
--Comprobar experimentalmente el analisis de nodos
--Medir y registrar el voltaje en los nodos.
--Determinar el porcentaje de error entre el valor teorico y experimental.
+### Objetivo General
+- Analizar el comportamiento de la bobina y el capacitor en circuitos
+### Objetivo Específico
+- Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
+- Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
+- Verificar las combinaciones serie y paralelo de bobinas y capacitores.
+- Familiarizarse con el uso de instrumentos de medida
 
 ## 3. MARCO TEÓRICO 
 ![image](https://user-images.githubusercontent.com/64505672/84841818-10b96080-b009-11ea-8c5f-862ff4ee8891.png)
