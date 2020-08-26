@@ -18,21 +18,41 @@ En los circuitos eléctricos existen elementos llamados capacitores e inductores
 - Familiarizarse con el uso de instrumentos de medida
 
 ## 3. MARCO TEÓRICO 
-![image](https://user-images.githubusercontent.com/64505672/84841818-10b96080-b009-11ea-8c5f-862ff4ee8891.png)
+Esta práctica se centra en la observación del comportamiento de ciertos elementos pasivos que encontramos en circuitos eléctricos, llamados capacitores e inductores, que tienen la capacidad de almacenar energia eléctrica, a diferencia de los resistores que se oponian al paso de la corriente (dispación de energia).
 
-Un nodo es el punto en donde se conectan diferentes elementos en un circuito, en el cual se puede medir el voltaje que cae en este punto, basándonos en la ley de corrientes Kirchhoff y la ley de Ohm.
-### Método de Nodos
+### Capacitores
+Según Sadiku (2004) "Un capacitor es un elemento pasivo diseñado para almacenar energía en su campo eléctrico. Junto con los resistores, los componentes eléctricos más comunes son los capacitores, los cuales son de amplio uso en electrónica, comunicaciones, computadoras y sistemas de potencia" p(216).
 
-![image](https://user-images.githubusercontent.com/64505672/84841694-ac969c80-b008-11ea-88e9-abf614eb50b4.png)
+![image](https://user-images.githubusercontent.com/64505672/91253138-c64d1200-e724-11ea-9aec-9409a02197e4.png)
 
-El método de Nodos es un método utilizado para resolver cualquier tipo de circuitos.
+Cuando una fuente de tensión v se conecta al capacitor, deposita una carga positiva q en una placa y una carga negativa q en la otra. Se dice que el capacitor almacena la carga eléctrica. El monto de carga almacenada, representado por q, es directamente proporcional a la tensión aplicada v de modo que
 
-![image](https://user-images.githubusercontent.com/64505672/84841751-db147780-b008-11ea-9d40-00c5b02e7e4f.png)
+![image](https://user-images.githubusercontent.com/64505672/91253412-5a1ede00-e725-11ea-8874-683160b95678.png)
 
-Los pasos para determinar la caida de voltaje en un nodo son:
-1. Determinar las corrientes que entran y salen en cada nodo.
-2. Aplique la LCK en cada uno de los n nodos. Use la ley de Ohm para expresar las corrientes en términos de los voltaje que caen en los elementos, considerando que la corriente sera igual a la diferencia de voltaje sobre la resistencia y considerando que el voltaje en tieera es cero.
-3. Resuelva las n ecuaciones simultáneas resultantes para obtener el voltaje en cada nodo.
+donde C, la constante de proporcionalidad, se conoce como la capacitancia del capacitor y se mide en faradios. Un faradio es 1 columbio/voltio.
+ 
+La corriente que oasa por un capacitor se lo calcula con la siguiente formula 
+
+![image](https://user-images.githubusercontent.com/64505672/91253689-09f44b80-e726-11ea-9482-68a1c739b216.png)
+
+Asi mismo se puede determinar el voltaje en funcion de la corriente
+
+![image](https://user-images.githubusercontent.com/64505672/91253819-5e97c680-e726-11ea-98b0-b179faee20a9.png)
+
+Una manera mas fácil de visualizar el comportamiento que de un capacitor es con la siguiente grafica
+
+![image](https://user-images.githubusercontent.com/64505672/91254333-ba168400-e727-11ea-8c53-6f18a922f677.png)
+
+Con respecto a las ecuaciones se puede concluir que: 
+- Para que un capacitor conduzca corriente su voltaje debe variar en funcion del tiempo .
+- La tensión en un capacitor no puede cambiar abruptamente, ya que debe ser continua.
+
+
+
+### Inductores
+
+
+
 
 ## 4. DIAGRAMAS
 Del circuito base:
