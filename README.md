@@ -77,7 +77,7 @@ Para entender mejor el comportamiento de un inductor se presenta el siguiente gr
 
 ![image](https://user-images.githubusercontent.com/64505672/91255820-69a12580-e72b-11ea-97fc-451027705f00.png)
 
-Con respecto a las ecuaciones anteirores se puede concluir que
+Con respecto a las ecuaciones se puede concluir que
 - La tensión en un inductor es de cero cuando la corriente es constante.
 - La corriente que circula por un inductor no puede cambiar instantáneamente, ya que se opone a cambios abruptos de corriente.
 
