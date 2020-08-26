@@ -179,18 +179,16 @@ Finalmente, el circuito puesto a prueba:
 
 
 ## 8.CONCLUSIONES
--Se concluyó gracias al análisis nodos, el valor analítico de los voltajes en el nodo1=2.82028 y nodo2=4.80195  .
-
--se logró comprobar que tanto los voltajes calculados en los respectivos nodos como los medidos poseen un bajo grado de error, siendo el error en el nodo1=0.00993% y en el nodo2=0.042%.
-
--se concluye que la razón por la que el error es muy pequeño se debe a que el simulador posee una incertidumbre casi nula, a diferencia de la vida real en la que la que las tolerancias de nuestras resistencias pueden variar.
+-
+-
+-
 
 ## 9.RECOMENDACIONES
 -Utilizar un simulador mas completo que tinker cad.
 
 -A la hora de medir la amplitud de la onda senoidal medir con cuidado para reducir el error.
 
--Revisar previamente el uso del osciloscopio para no cometer errores
+-Revisar previamente el uso del osciloscopio para no cometer errores.
 
 ## 10. BIBLIOGRAFÍA
 
