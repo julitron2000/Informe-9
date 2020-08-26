@@ -275,11 +275,11 @@ Son los valores otorgados por el multímetro, basicamente son valores equivalent
 - Los errores tabulados en la tabla 4. son respecto a los voltajes rms en los dos tipos de circuitos (capacitivos e inductivos), se concluye que estos se encuentran en un rango aceptable y la razón principal de este error es por fallas realizadadas en los cálculos (consideración de decimales). 
 
 ## 9.RECOMENDACIONES
--Utilizar un simulador mas completo que tinker cad.
+- Utilizar un simulador mas completo que tinker cad.
 
--A la hora de medir la amplitud de la onda senoidal medir con cuidado para reducir el error.
+- A la hora de medir la amplitud de la onda senoidal medir con cuidado para reducir el error.
 
--Revisar previamente el uso del osciloscopio para no cometer errores.
+- Revisar previamente el uso del osciloscopio para no cometer errores.
 
 ## 10. BIBLIOGRAFÍA
 
