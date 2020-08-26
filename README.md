@@ -175,7 +175,7 @@ Finalmente, el circuito puesto a prueba:
 
 
 ## 7. CRONOGRAMA
-![0005](https://user-images.githubusercontent.com/66037557/91257747-4d53b780-e730-11ea-818e-745348845fce.png)
+![diagrama](https://user-images.githubusercontent.com/66037557/91257840-7f651980-e730-11ea-89ca-69b2c22909cf.png)
 
 
 ## 8.CONCLUSIONES
