@@ -270,7 +270,7 @@ Son los valores otorgados por el multímetro, basicamente son valores equivalent
 
 
 ## 8.CONCLUSIONES
--Se puede concluir que en un circuito Dc los capacitores se comportan como circuitos abiertos y los inductores como cortocircuitos. Por otro lado en circuitos alimentados por corriente alterna se onservo que al existir una frecuencia diferente de 0 tanto el capacitor como elresistor se oponen al flujo de carriente, es decir que tienen una impedancia z.
+- Se puede concluir que en un circuito Dc los capacitores se comportan como circuitos abiertos y los inductores como cortocircuitos. Por otro lado en circuitos alimentados por corriente alterna se onservo que al existir una frecuencia diferente de 0 tanto el capacitor como elresistor se oponen al flujo de carriente, es decir que tienen una impedancia z.
 - Al observar las primeras 3 tablas de datos llenadas, se puede concluir que en el caso de un circuito con capacitores, el voltaje disminuye mientras que la corriente aumenta, en el caso de inductores sucede el proceso inverso, esto a su vez está relacionado con la reactancia obtenida.
 - Los errores tabulados en la tabla 4. son respecto a los voltajes rms en los dos tipos de circuitos (capacitivos e inductivos), se concluye que estos se encuentran en un rango aceptable y la razón principal de este error es por fallas realizadadas en los cálculos (consideración de decimales). 
 
@@ -283,6 +283,6 @@ Son los valores otorgados por el multímetro, basicamente son valores equivalent
 
 ## 10. BIBLIOGRAFÍA
 
--M.Sadiku, C.Alexander, Fundamentos de circuitos eléctricos (3ra Edición), 2004.
+- M.Sadiku, C.Alexander, Fundamentos de circuitos eléctricos (3ra Edición), 2004.
 
--Allan, H.Robbins, Análisis de Circuitos. Teoría y práctica(4ta Edición), 2008.
+- Allan, H.Robbins, Análisis de Circuitos. Teoría y práctica(4ta Edición), 2008.
