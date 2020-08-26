@@ -96,10 +96,7 @@ Para resumir la información, Sadiku (2004) nos facilita la siguiente tabla que 
 ## 4. DIAGRAMAS
 Del circuito base:
 
-![Circuito](https://user-images.githubusercontent.com/66037763/84849909-0785bf00-b01c-11ea-854a-a0eaf524f16f.png)
-
-
-Se observan las conecciones y se identifican los nodos a los que se debe hacer el respectivo análisis:
+![0020](https://user-images.githubusercontent.com/66037557/91269751-3bc4dc80-e73d-11ea-8101-dddd702acc02.png)
 
 
 ![CircuitosNodos](https://user-images.githubusercontent.com/66037763/84850917-8f6cc880-b01e-11ea-9627-a9fe10551303.png)
