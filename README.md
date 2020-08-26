@@ -94,79 +94,175 @@ Para resumir la información, Sadiku (2004) nos facilita la siguiente tabla que 
 
 
 ## 4. DIAGRAMAS
-Del circuito base:
-
-![0020](https://user-images.githubusercontent.com/66037557/91269751-3bc4dc80-e73d-11ea-8101-dddd702acc02.png)
 
 
-![0021](https://user-images.githubusercontent.com/66037557/91269905-77f83d00-e73d-11ea-994a-87ad869b4d4b.png)
+![chrome_jj2CMayvW6](https://user-images.githubusercontent.com/66037763/91268424-ef789d00-e73a-11ea-8903-91b9b250db91.png)
+
+
+Primer circuito, se tiene una fuente de voltaje AC y un par de capacitores de 10 μF en paralelo. De igual manera debe colocar el osciloscipio en paralelo al igual que el multímetro cuando se calcule voltaje. En el caso de medir corriente se coloca el multímetro en serie. 
+
+
+![chrome_LmmTjpbTyf](https://user-images.githubusercontent.com/66037763/91268391-e12a8100-e73a-11ea-8d38-57a0bebe17d9.png)
+
+
+Para el segundo circuito, se repite el proceso antes mencionado, la diferencia es que los componentes son un par de inductores de 100 mH. A continuación, ejemplos de los circuitos simulados con su respectiva señal en el osciloscopio:
+
+CONDUCTORES
+
+En 50 Hz:
+
+![image](https://user-images.githubusercontent.com/66037763/91269579-ff917c00-e73c-11ea-91ab-34377e1c3ab6.png)
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/66037763/91269389-a75a7a00-e73c-11ea-971b-de2597fe50ef.png)
+
+
+
+CAPACITORES
+
+En 50 Hz:
+
+![image](https://user-images.githubusercontent.com/66037763/91270337-18e6f800-e73e-11ea-8019-84a06952a325.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/66037763/91270392-2bf9c800-e73e-11ea-84d4-a0235c081321.png)
 
 
 
 ## 5. LISTA DE COMPONENTES
-A. Generador de funciones
-
-![0022](https://user-images.githubusercontent.com/66037557/91270298-0b317280-e73e-11ea-90db-49c611ecdf72.png)
+A. Generador de Señales
 
 
-B. Multímetros Digitales (los que se encuentre necesarios)
-
-![chrome_1E7H2m0GOE](https://user-images.githubusercontent.com/66037763/84236069-a6f6ff00-aabc-11ea-90f8-49d128847e17.png)
+![chrome_LUEFWCOVi0](https://user-images.githubusercontent.com/66037763/90581763-a1d7bf80-e191-11ea-9e2b-1254612c8019.png)
 
 
-C. Resistor de 1.8 kΩ
+
+B. Multímetros Digitales
 
 
-![chrome_H59RekD0Sn](https://user-images.githubusercontent.com/66037763/84236097-b4ac8480-aabc-11ea-88e9-0930cd8a6151.png)
+
+![Multimetro](https://user-images.githubusercontent.com/66037763/86204443-252f4a00-bb2d-11ea-8508-0edf4c96af71.png)
 
 
-D. Resistor de 470 Ω
+
+C. Resistor de 100 Ω
 
 
-![chrome_nYj42XTcAA](https://user-images.githubusercontent.com/66037763/84236121-bc6c2900-aabc-11ea-9052-20d1e126c649.png)
+![chrome_YBCCxA2dTh](https://user-images.githubusercontent.com/66037763/91255172-cdc2ea00-e729-11ea-8fde-001f1ab47c6a.png)
 
 
-E. Resistor de 1.5 kΩ
 
+C. Protoboard
 
-![chrome_jPVmQCB5dn](https://user-images.githubusercontent.com/66037763/84236149-cbeb7200-aabc-11ea-96d9-4b01e8f8ef81.png)
-
-
-F. Resistor de 3.9 kΩ
-
-
-![chrome_RgP3H68Ui2](https://user-images.githubusercontent.com/66037763/84236162-d60d7080-aabc-11ea-864d-536485900f86.png)
-
-
-G. Resistor de 2.2 kΩ
-
-![chrome_u6waqAZiNN](https://user-images.githubusercontent.com/66037763/84236192-e0c80580-aabc-11ea-9767-487481f78259.png)
-
-
-H. Protoboard
 
 ![chrome_gnkRWUT4Si](https://user-images.githubusercontent.com/66037763/84236208-e9b8d700-aabc-11ea-9985-2e94ef9d6adb.png)
 
 
+
+
+D. Oscilosciopio
+
+
+
+![chrome_p6hVOC777I](https://user-images.githubusercontent.com/66037763/90581876-f2e7b380-e191-11ea-8fed-2af53bdc9daa.png)
+
+
+
+
+E. Fuente DC
+
+
+
+![chrome_FxjHlWp3kM](https://user-images.githubusercontent.com/66037763/84236034-96df1f80-aabc-11ea-9159-3d2235bc315b.png)
+
+
+
+F. Capacitores
+
+
+![chrome_gYijK3iWZh](https://user-images.githubusercontent.com/66037763/91255322-28f4dc80-e72a-11ea-99b1-98898211f286.png)
+
+
+
+G. Bobinas/inductores
+
+
+![chrome_KUfo7uFUon](https://user-images.githubusercontent.com/66037763/91255513-8db03700-e72a-11ea-8d4b-121f8973c0c9.png)
+
+
+
 ## 6. DESCRIPCION DE PREREQUISITOS Y CONFIGURACION
 
-Después de los respectivos cálculos y mediciones prácticas, se obtuvieron los resultados de cada uno de los dos nodos por analizar y se los ordenó dentro de la siguiente tabla:
 
-![WINWORD_6wRyIqYdmd](https://user-images.githubusercontent.com/66037763/84852156-b2e54280-b021-11ea-9b85-0f531e1349e8.png)
+ANALISIS DE RESULTADOS
+
+1.
+Tabla 1. Datos obtenidos del circuito con capacitancia
+| PARÁMETRO ELÉCTRICO    |    0        |      10          |     50          |     100           |      500         |        1000            |
+|           ---          |     ---     |       ---        |    ---          |    ---            |    ---           |         ---            |     
+|       Vp               |    0        |      9.809 V     |     8.338 V     |     6.090 V       |     1.880 V      |       764.903 mV       |            
+|       Vo               |    0        |      7.014 V     |     5.965 V     |     4.368 V       |     1.097 V      |       553.740 mV       |              
+|      Corriente         |    0        |      8.929 mA    |     37.968 mA   |     55.604 mA     |     69.851 mA    |       70.493 mA        |              
+ 
+Tabla 2. Datos obtenidos del circuito con inductancia
+| PARÁMETRO ELÉCTRICO |    0       |      10     |     50     |     100      |      500     |    1000      |
+|           ---       |     ---    |       ---   |    ---     |    ---       |    ---       |     ---      |     
+|       Vp            |      0     |  317.580 mV |  1.556 V   |   3.006 V    |   8.407 V    |  9.108 V     |            
+|       Vo            |      0     |  224.926 mV |  1.111 V   |   2.144 V    |   5.987 V    |  6.746 V     |              
+|      Corriente      |      0     |  70.673 mA  |  69.831 mA |  67.379 mA   |   37.622 mA  |   21.196 mA  |   
+
+Se puede observar, en la tabla 1. que es referente al circuito con capacitancia, que mientras la frecuencia aumenta el voltaje disminuye y la corriente aumenta proporcionalmente. Por otro lado en los datos de la tabla 2. referente al circuito con inductores, mientras la frecuencia aumenta tambien lo hace su voltaje, pero la corriente disminuye. De tal manera que la diferencia principal es en la proporcionalidad de la frecuencia con sus parámetros eléctricos; en el caso de los capacitores, el voltaje es inversamente proporcional pero la corriente es directa, y en el caso de los inductores el voltaje es directamente proporcional y la corriente inversa. 
+
+2. 
+
+Tabla 3. Reactancias
+| PARÁMETRO ELÉCTRICO |    0       |      10     |     50     |     100      |      500     |    1000      |
+|           ---       |     ---    |       ---   |    ---     |    ---       |    ---       |     ---      |     
+|         X (C)       |    0       | 785.53 Ω    |  157.11 Ω  |   78.56 Ω    |   15.7 Ω     |    7.86 Ω    |   
+|         X (L)       |    0       | 3.18 Ω      |   15.91 Ω  |   31.82 Ω    |  159.14 Ω    |   318.27 Ω   |
+
+Inductancia equivalente = 50 mH
+
+Capacitancia equivalente = 20 uF
+
+Es visible en la tabla 3. que la reactancia capacitiva disminuye mientras la frecuencia aumenta, por otro lado la reactancia inductiva aumenta siguiendo la misma relación. Esto puede explicar la razón de cambio del voltaje en los circuitos vistos en la tabla 1. y 2. 
+
+PREGUNTAS
 
 
-Una vez obtenidos los datos, se procede a calcular el porcentaje de error de los resultados obtenidos experimentalmente, comparados con los obtenidos analíticamente: 
+1.- Justifique los errores cometidos en las mediciones.
 
+**Cálculo de error**
+Se utiliza el parámetro de voltaje para hacer el respectivo análisis de errores:
 
-![WINWORD_pXoChW7GaK](https://user-images.githubusercontent.com/66037763/84852543-c47b1a00-b022-11ea-9332-b95da92dea84.png)
+Tabla 4. Errores de Vo
+| PARÁMETRO ELÉCTRICO |    0       |      10     |     50     |     100      |      500     |    1000      |
+|           ---       |     ---    |       ---   |    ---     |    ---       |    ---       |     ---      |     
+|         Vo (C)      |            |             |            |              |              |              |
+|         Vo (L)      |            |             |            |              |              |              | 
 
+2.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
-![WINWORD_M4pKwobPV9](https://user-images.githubusercontent.com/66037763/84852656-04420180-b023-11ea-95a4-370f6b5923a3.png)
+Cuando se tiene capacitores, en corriente contínua se considera un circuito abierto donde estén ubicados y es por esto que resulta un voltaje 0, en el caso de los inductores se considera un corto circuito, es decir que se considera un alambre sin impedancia (continúa en serie) y esta la razón por la que el multímetro mide 0 en este segmento.
 
+3.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
-Finalmente, el circuito puesto a prueba: 
+En corriente alterna, existe una frecuencia diferente a 0 por lo que tanto el capacitor como la bobina van a tener una impedancia que es equivalente a la resistencia en DC, por lo que ambos actúan de forma resistiva a la corriente en AC. 
 
-![Tinker](https://user-images.githubusercontent.com/66037763/84852749-33587300-b023-11ea-8052-10f689380e30.jpg)
+4.- ¿Qué cree usted que ocurriría con el voltaje 𝑉𝑜 y la corriente de la resistencia en los
+circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores
+distintos?
+
+Los valores de corriente y voltaje cambiarían, sin embargo su relación proporcional al cambio de frecuencia se mantiene ya que esto es característico del elemento e independiente de su magnitud capacitiva o inductiva. 
+
+5.- ¿Qué son los valores eficaces de voltaje y corriente?
+
+Son los valores otorgados por el multímetro, basicamente son valores equivalentes a los de corriente continua de una forma de onda en corriente alterna.
 
 
 ## 7. CRONOGRAMA
