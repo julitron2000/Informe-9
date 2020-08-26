@@ -63,16 +63,17 @@ electrónicos y de potencia"
 
 ![image](https://user-images.githubusercontent.com/64505672/91256161-38752500-e72c-11ea-8b6a-c517677c85e1.png)
 
-Para encontrar el volataje que pasa por un inductor se tiene la siguiente fórmula
+Para encontrar el voltaje que pasa por un inductor se tiene la siguiente fórmula
 
 ![image](https://user-images.githubusercontent.com/64505672/91255009-65740880-e729-11ea-933d-25e93c26edba.png)
 
-donde L es la constante de proporcionalidad, llamada inductancia del inductor y se llama henry, donde 1 henry es igual a 1 voltio-segundo por amperio.
-Para entender mejor el comportamiento de un inductor se presenta el siguiente gráfico.
+donde L es la constante de proporcionalidad, llamada inductancia del inductor y se mide en henrys, donde 1 henry es igual a 1 voltio-segundo por amperio.
 
 La corriente que pasa por el inductor se calcula asi
 
 ![image](https://user-images.githubusercontent.com/64505672/91255505-8ab54680-e72a-11ea-870c-15877002e459.png)
+
+Para entender mejor el comportamiento de un inductor se presenta el siguiente gráfico.
 
 ![image](https://user-images.githubusercontent.com/64505672/91255820-69a12580-e72b-11ea-97fc-451027705f00.png)
 
