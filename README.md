@@ -31,7 +31,7 @@ Cuando una fuente de tensión v se conecta al capacitor, deposita una carga posi
 
 donde C, la constante de proporcionalidad, se conoce como la capacitancia del capacitor y se mide en faradios. Un faradio es 1 columbio/voltio.
  
-La corriente que oasa por un capacitor se lo calcula con la siguiente formula 
+La corriente que pasa por un capacitor se lo calcula con la siguiente formula 
 
 ![image](https://user-images.githubusercontent.com/64505672/91253689-09f44b80-e726-11ea-9482-68a1c739b216.png)
 
@@ -47,10 +47,49 @@ Con respecto a las ecuaciones se puede concluir que:
 - Para que un capacitor conduzca corriente su voltaje debe variar en funcion del tiempo .
 - La tensión en un capacitor no puede cambiar abruptamente, ya que debe ser continua.
 
+La capacitancia equivalente de un cierto número de capacitores conectados en paralelo se lo calcula asi
 
+![image](https://user-images.githubusercontent.com/64505672/91254482-25605600-e728-11ea-9c81-21e2cdbd0352.png)
+
+La capacitancia equivalente de un cierto número de capacitores conectados en serie se lo calcula asi
+
+![image](https://user-images.githubusercontent.com/64505672/91254549-4c1e8c80-e728-11ea-9ae8-7a408d1343a6.png)
+
+La corriente que pasa el capacitor se calcula asi
+
+![image](https://user-images.githubusercontent.com/64505672/91255505-8ab54680-e72a-11ea-870c-15877002e459.png)
 
 ### Inductores
 
+Según Sadiku (2004) "Un inductor es un elemento pasivo diseñado para almacenar energía en su campo magnético. Los inductores encuentran numerosas aplicaciones en sistemas
+electrónicos y de potencia" 
+
+![image](https://user-images.githubusercontent.com/64505672/91256161-38752500-e72c-11ea-8b6a-c517677c85e1.png)
+
+Para encontrar el volataje que pasa por un inductor se tiene la siguiente fórmula
+
+![image](https://user-images.githubusercontent.com/64505672/91255009-65740880-e729-11ea-933d-25e93c26edba.png)
+
+donde L es la constante de proporcionalidad, llamada inductancia del inductor y se llama henry, donde 1 henry es igual a 1 voltio-segundo por amperio.
+Para entender mejor el comportamiento de un inductor se presenta el siguiente gráfico.
+
+![image](https://user-images.githubusercontent.com/64505672/91255820-69a12580-e72b-11ea-97fc-451027705f00.png)
+
+Con respecto a las ecuaciones anteirores se puede concluir que
+- La tensión en un inductor es de cero cuando la corriente es constante.
+- La corriente que circula por un inductor no puede cambiar instantáneamente, ya que se opone a cambios abruptos de corriente.
+
+La inductancia equivalente de un numero determinado de inductores conectados en paralelos se calcula asi
+
+![image](https://user-images.githubusercontent.com/64505672/91256288-90ac2700-e72c-11ea-8677-ccbedcab0546.png)
+
+La inductancia equivalente de un numero determinado de inductores conectados en serie se calcula asi
+
+![image](https://user-images.githubusercontent.com/64505672/91256328-afaab900-e72c-11ea-9e35-1d5bb99a7b1f.png)
+
+Para resumir la información, Sadiku (2004) nos facilita la siguiente tabla que incluye informacion de los resitores
+
+![image](https://user-images.githubusercontent.com/64505672/91256498-1a5bf480-e72d-11ea-9808-46bfea0b6d5b.png)
 
 
 
