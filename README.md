@@ -186,11 +186,11 @@ Finalmente, el circuito puesto a prueba:
 -se concluye que la razón por la que el error es muy pequeño se debe a que el simulador posee una incertidumbre casi nula, a diferencia de la vida real en la que la que las tolerancias de nuestras resistencias pueden variar.
 
 ## 9.RECOMENDACIONES
--Tener cuidado al tomar la medida de caída de tensión en nuestros nodos, podemos obtener valores erróneos.
+-Utilizar un simulador mas completo que tinker cad.
 
--Armar el circuito de una forma didáctica para que todos puedan entender el funcionamiento del mismo.
+-A la hora de medir la amplitud de la onda senoidal medir con cuidado para reducir el error.
 
--Utilizar la mayor cantidad de decimales posibles en el cálculo, para sacar un grado de error mas significativo.
+-Revisar previamente el uso del osciloscopio para no cometer errores
 
 ## 10. BIBLIOGRAFÍA
 
