@@ -55,9 +55,6 @@ La capacitancia equivalente de un cierto número de capacitores conectados en se
 
 ![image](https://user-images.githubusercontent.com/64505672/91254549-4c1e8c80-e728-11ea-9ae8-7a408d1343a6.png)
 
-La corriente que pasa el capacitor se calcula asi
-
-![image](https://user-images.githubusercontent.com/64505672/91255505-8ab54680-e72a-11ea-870c-15877002e459.png)
 
 ### Inductores
 
@@ -72,6 +69,10 @@ Para encontrar el volataje que pasa por un inductor se tiene la siguiente fórmu
 
 donde L es la constante de proporcionalidad, llamada inductancia del inductor y se llama henry, donde 1 henry es igual a 1 voltio-segundo por amperio.
 Para entender mejor el comportamiento de un inductor se presenta el siguiente gráfico.
+
+La corriente que pasa por el inductor se calcula asi
+
+![image](https://user-images.githubusercontent.com/64505672/91255505-8ab54680-e72a-11ea-870c-15877002e459.png)
 
 ![image](https://user-images.githubusercontent.com/64505672/91255820-69a12580-e72b-11ea-97fc-451027705f00.png)
 
