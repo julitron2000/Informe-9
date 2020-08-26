@@ -106,8 +106,7 @@ Del circuito base:
 ## 5. LISTA DE COMPONENTES
 A. Generador de funciones
 
-
-![chrome_FxjHlWp3kM](https://user-images.githubusercontent.com/66037763/84236034-96df1f80-aabc-11ea-9159-3d2235bc315b.png)
+![0022](https://user-images.githubusercontent.com/66037557/91270298-0b317280-e73e-11ea-90db-49c611ecdf72.png)
 
 
 B. Multímetros Digitales (los que se encuentre necesarios)
