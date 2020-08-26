@@ -6,7 +6,7 @@ AUTORES: DAVID HINOJOSA,
 
 ## 1. PLANTEAMIENTO DEL PROBLEMA
 
-En los circuitos eléctricos existen elementos llamados capacitores e inductores, son usados en practicamaente todos los circuitos de los diferentes electrodomesticos, por ello es importante aprender a realizar las mediciones de voltaje y corriente con estos elementos.
+En los circuitos eléctricos existen elementos llamados capacitores e inductores, son usados en practicamente todos los circuitos de los diferentes electrodomesticos, por ello es importante aprender a realizar las mediciones de voltaje y corriente con estos elementos.
 
 ## 2. OBJETIVOS
 ### Objetivo General
