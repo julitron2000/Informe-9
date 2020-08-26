@@ -99,10 +99,9 @@ Del circuito base:
 ![0020](https://user-images.githubusercontent.com/66037557/91269751-3bc4dc80-e73d-11ea-8101-dddd702acc02.png)
 
 
-![CircuitosNodos](https://user-images.githubusercontent.com/66037763/84850917-8f6cc880-b01e-11ea-9627-a9fe10551303.png)
+![0021](https://user-images.githubusercontent.com/66037557/91269905-77f83d00-e73d-11ea-994a-87ad869b4d4b.png)
 
 
-Los nodos encerrados en rojo son donde tomará lugar el análisis de nodos. El voltaje que entra a cada uno de estos, está representado por las flechas rojas, de igual manera el voltaje saliente que tienen dirección vertical y con sentido hacia tierra. 
 
 ## 5. LISTA DE COMPONENTES
 A. 2 Fuentes de Voltaje de C.D. (12 y 8 V. respectivamente)
