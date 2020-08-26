@@ -241,10 +241,10 @@ PREGUNTAS
 Se utiliza el parámetro de voltaje para hacer el respectivo análisis de errores:
 
 Tabla 4. Errores de Vo
-| PARÁMETRO ELÉCTRICO |    0       |      10     |     50     |     100      |      500     |    1000      |
-|           ---       |     ---    |       ---   |    ---     |    ---       |    ---       |     ---      |     
-|         Vo (C)      |            |             |            |              |              |              |
-|         Vo (L)      |            |             |            |              |              |              | 
+| PARÁMETRO ELÉCTRICO |    10      |     50      |     100    |      500     |    1000      |
+|           ---       |     ---    |       ---   |    ---     |    ---       |    ---       |         
+|        E %Vo (C)    | 1.1119 %   | 1.1591 %    | 1.4129 %   |  2.1181 %    |    2.3245 %  |           
+|        E %Vo (L)    | 0.1613 %   | 0.9668 %    | 0.8599 %   |  0.7074 %    |    4.5311 %  |           
 
 2.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
