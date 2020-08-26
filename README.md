@@ -104,7 +104,7 @@ Del circuito base:
 
 
 ## 5. LISTA DE COMPONENTES
-A. 2 Fuentes de Voltaje de C.D. (12 y 8 V. respectivamente)
+A. Generador de funciones
 
 
 ![chrome_FxjHlWp3kM](https://user-images.githubusercontent.com/66037763/84236034-96df1f80-aabc-11ea-9159-3d2235bc315b.png)
