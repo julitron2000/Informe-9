@@ -1,4 +1,4 @@
-# Informe N°8 INDUCTOR Y CAPACITOR
+# Informe N°9 Amplificador Operacional
 
 AUTORES: DAVID HINOJOSA,
          JAVIER DELGADO,
