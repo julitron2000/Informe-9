@@ -47,8 +47,9 @@ Entonces la salida vo está dada por
 
 ![image](https://user-images.githubusercontent.com/64505672/91808508-27c42380-ebf2-11ea-9437-6470b938dbc2.png)
 
-A se llama ganancia en tensión de lazo abierto, porque es la ganancia del amplificador operacional sin retroalimentación externa de la salida a la entrada.
-Los valores entre los que operan estas variables son
+
+A se llama ganancia en tensión de lazo abierto, porque es la ganancia del amplificador operacional sin retroalimentación externa de la salida a la entrada. Se evidencia entonces que un amplificador operacional es un amplificador de alta ganancia con resistencia de entrada muy alta y baja resistencia de salida.
+Los valores entre los que operan las variables de un amp op son
 
 ![image](https://user-images.githubusercontent.com/64505672/91809754-81c4e900-ebf2-11ea-8ab6-4a6562c9f8e5.png)
 
@@ -66,7 +67,6 @@ Se pueden hacer diferentes configuraciones en los amplificadores para que cumpla
 - Amplificador no inversor: es un circuito de amplificador operacional diseñado para suministrar una ganancia en tensión positiva.
 - Amplificador sumador: es un circuito del amplificador operacional que combina varias entradas y produce una salida que es la suma ponderada de las entradas.
 - Amplificador diferencial: es un dispositivo que amplifica la diferencia entre dos entradas pero rechaza toda señal común a las dos entradas.
-
 
 
 ## 4. DIAGRAMAS
