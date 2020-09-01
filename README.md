@@ -17,80 +17,34 @@ El amplificador operacional es un componente activo que podemos encontrar en los
 - Familiarizarse con el uso de instrumentos de medida.
 
 ## 3. MARCO TEÓRICO 
-Esta práctica se centra en la observación del comportamiento de ciertos elementos pasivos que encontramos en circuitos eléctricos, llamados capacitores e inductores, que tienen la capacidad de almacenar energia eléctrica, a diferencia de los resistores que se oponian al paso de la corriente (dispación de energia).
 
-### Capacitores
-Según Sadiku (2004) "Un capacitor es un elemento pasivo diseñado para almacenar energía en su campo eléctrico. Junto con los resistores, los componentes eléctricos más comunes son los capacitores, los cuales son de amplio uso en electrónica, comunicaciones, computadoras y sistemas de potencia" p(216).
+Amplificadores Operacionales
 
-![image](https://user-images.githubusercontent.com/64505672/91253138-c64d1200-e724-11ea-9aec-9409a02197e4.png)
+Un operador operacional es un elemento activo de circuitos de suma importancia por lo que es común encontrarlos en diseños prácticos de circuitos a causa de su versatilidad, bajo costo, facilidad de uso y grato manejo.
 
-Cuando una fuente de tensión v se conecta al capacitor, deposita una carga positiva q en una placa y una carga negativa q en la otra. Se dice que el capacitor almacena la carga eléctrica. El monto de carga almacenada, representado por q, es directamente proporcional a la tensión aplicada v de modo que
+Sadiku (2004) define al amplificador operacional:
+"El amplificador operacional es una unidad electrónica que se comporta como una fuente de tensión controlada por tensión, es un elemento de circuitos activo diseñado para realizar operaciones matemáticas de suma, resta, multiplicación, división, diferenciación e integración" pag(176).
 
-![image](https://user-images.githubusercontent.com/64505672/91253412-5a1ede00-e725-11ea-8874-683160b95678.png)
+Un amplificador operacional esta compuesto internamente por un gran número de resistores, capacitores, inductores, transistores y diodos. Normalmente tiene 8 terminales en los cuales se especifica una funcion para cada terminal. En el siguiente grafico se puede observar la funcion de las terminales y su representacion en los circuitos en la derecha
 
-donde C, la constante de proporcionalidad, se conoce como la capacitancia del capacitor y se mide en faradios. Un faradio es 1 columbio/voltio.
- 
-La corriente que pasa por un capacitor se lo calcula con la siguiente formula 
+![image](https://user-images.githubusercontent.com/64505672/91800362-6fe14700-ebee-11ea-884a-a63c5d616ba7.png)
 
-![image](https://user-images.githubusercontent.com/64505672/91253689-09f44b80-e726-11ea-9482-68a1c739b216.png)
+Los terminales importantes a considerar en este nivel de estudio son los siguientes.
+- Terminal 2: Entrada inversora
+- Terminal 3: Entrada no inversora
+- Terminal 4: Suministro de potencia negativa V-
+- Terminal 6: Salida
+- Terminal 7: Suministro de potencia positiva V+
 
-Asi mismo se puede determinar el voltaje en funcion de la corriente
-
-![image](https://user-images.githubusercontent.com/64505672/91253819-5e97c680-e726-11ea-98b0-b179faee20a9.png)
-
-Una manera mas fácil de visualizar el comportamiento que de un capacitor es con la siguiente grafica
-
-![image](https://user-images.githubusercontent.com/64505672/91254333-ba168400-e727-11ea-8c53-6f18a922f677.png)
-
-Con respecto a las ecuaciones se puede concluir que: 
-- Para que un capacitor conduzca corriente su voltaje debe variar en funcion del tiempo .
-- La tensión en un capacitor no puede cambiar abruptamente, ya que debe ser continua.
-
-La capacitancia equivalente de un cierto número de capacitores conectados en paralelo se lo calcula asi
-
-![image](https://user-images.githubusercontent.com/64505672/91254482-25605600-e728-11ea-9c81-21e2cdbd0352.png)
-
-La capacitancia equivalente de un cierto número de capacitores conectados en serie se lo calcula asi
-
-![image](https://user-images.githubusercontent.com/64505672/91254549-4c1e8c80-e728-11ea-9ae8-7a408d1343a6.png)
+Consideramos que una entrada aplicada a la terminal no inversora aparecerá con la misma polaridad en la salida, mientras que una entrada aplicada a la terminal
+inversora aparecerá invertida en la salida.
+Lo
 
 
-### Inductores
+Se pueden hacer diferentes configuraciones en los amplificadores para que cumplan determinadas funciones. En la siguiente grafica recuperada de Sadiku(2004), podemos ver un resumen de las configuraciones más comunes y las funciones que cumplen respectivamente
 
-Según Sadiku (2004) "Un inductor es un elemento pasivo diseñado para almacenar energía en su campo magnético. Los inductores encuentran numerosas aplicaciones en sistemas
-electrónicos y de potencia" 
+![image](https://user-images.githubusercontent.com/64505672/91803299-91dbc900-ebf0-11ea-8536-73a8117e712f.png)
 
-![image](https://user-images.githubusercontent.com/64505672/91256161-38752500-e72c-11ea-8b6a-c517677c85e1.png)
-
-Para encontrar el voltaje que pasa por un inductor se tiene la siguiente fórmula
-
-![image](https://user-images.githubusercontent.com/64505672/91255009-65740880-e729-11ea-933d-25e93c26edba.png)
-
-donde L es la constante de proporcionalidad, llamada inductancia del inductor y se mide en henrys, donde 1 henry es igual a 1 voltio-segundo por amperio.
-
-La corriente que pasa por el inductor se calcula asi
-
-![image](https://user-images.githubusercontent.com/64505672/91255505-8ab54680-e72a-11ea-870c-15877002e459.png)
-
-Para entender mejor el comportamiento de un inductor se presenta el siguiente gráfico.
-
-![image](https://user-images.githubusercontent.com/64505672/91255820-69a12580-e72b-11ea-97fc-451027705f00.png)
-
-Con respecto a las ecuaciones se puede concluir que
-- La tensión en un inductor es de cero cuando la corriente es constante.
-- La corriente que circula por un inductor no puede cambiar instantáneamente, ya que se opone a cambios abruptos de corriente.
-
-La inductancia equivalente de un numero determinado de inductores conectados en paralelos se calcula asi
-
-![image](https://user-images.githubusercontent.com/64505672/91256288-90ac2700-e72c-11ea-8677-ccbedcab0546.png)
-
-La inductancia equivalente de un numero determinado de inductores conectados en serie se calcula asi
-
-![image](https://user-images.githubusercontent.com/64505672/91256328-afaab900-e72c-11ea-9e35-1d5bb99a7b1f.png)
-
-Para resumir la información, Sadiku (2004) nos facilita la siguiente tabla que incluye informacion de los resitores
-
-![image](https://user-images.githubusercontent.com/64505672/91256498-1a5bf480-e72d-11ea-9808-46bfea0b6d5b.png)
 
 
 
