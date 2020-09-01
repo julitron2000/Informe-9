@@ -38,8 +38,19 @@ Los terminales importantes a considerar en este nivel de estudio son los siguien
 
 Consideramos que una entrada aplicada a la terminal no inversora aparecerá con la misma polaridad en la salida, mientras que una entrada aplicada a la terminal
 inversora aparecerá invertida en la salida.
-Lo
+Se puede representar el circuito equivalente de un amplificador operacional de la siguiente manera
 
+![image](https://user-images.githubusercontent.com/64505672/91807554-e59ae200-ebf1-11ea-85a9-5760ed5dcf0d.png)
+
+donde v1 es la tensión entre la terminal inversora y tierra y v2 es la tensión entre la terminal no inversora y tierra. El amplificador operacional percibe la diferencia entre esas dos entradas, la multiplica por la ganancia A y provoca que la tensión resultante aparezca en la salida. Sadiku(2004)
+Entonces la salida vo está dada por
+
+![image](https://user-images.githubusercontent.com/64505672/91808508-27c42380-ebf2-11ea-9437-6470b938dbc2.png)
+
+A se llama ganancia en tensión de lazo abierto, porque es la ganancia del amplificador operacional sin retroalimentación externa de la salida a la entrada.
+Los valores entre los que operan estas variables son
+
+![image](https://user-images.githubusercontent.com/64505672/91809754-81c4e900-ebf2-11ea-8ab6-4a6562c9f8e5.png)
 
 Se pueden hacer diferentes configuraciones en los amplificadores para que cumplan determinadas funciones. En la siguiente grafica recuperada de Sadiku(2004), podemos ver un resumen de las configuraciones más comunes y las funciones que cumplen respectivamente
 
