@@ -23,6 +23,7 @@ Amplificadores Operacionales
 Un operador operacional es un elemento activo de circuitos de suma importancia por lo que es común encontrarlos en diseños prácticos de circuitos a causa de su versatilidad, bajo costo, facilidad de uso y grato manejo.
 
 Sadiku (2004) define al amplificador operacional:
+
 "El amplificador operacional es una unidad electrónica que se comporta como una fuente de tensión controlada por tensión, es un elemento de circuitos activo diseñado para realizar operaciones matemáticas de suma, resta, multiplicación, división, diferenciación e integración" pag(176).
 
 Un amplificador operacional esta compuesto internamente por un gran número de resistores, capacitores, inductores, transistores y diodos. Normalmente tiene 8 terminales en los cuales se especifica una funcion para cada terminal. En el siguiente grafico se puede observar la funcion de las terminales y su representacion en los circuitos en la derecha
