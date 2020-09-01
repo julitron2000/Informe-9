@@ -52,10 +52,20 @@ Los valores entre los que operan estas variables son
 
 ![image](https://user-images.githubusercontent.com/64505672/91809754-81c4e900-ebf2-11ea-8ab6-4a6562c9f8e5.png)
 
+El concepto de retroalimentación es crucial para la comprensión de los circuitos de amplificadores operacionales. Una retroalimentación negativa se obtiene cuando la salida se retroalimenta a la terminal inversora del amplificador operacional. Cuando hay una vía de retroalimentación de la salida a la entrada, la proporción entre la tensión de salida y la tensión de entrada se llama ganancia de lazo cerrado. Como resultado de la retroalimentación negativa, es posible demostrar que la ganancia de lazo cerrado es casi insensible a la ganancia de lazo abierto A del amplificador operacional. Por esta razón se usan amplificadores operacionales en circuitos con trayectorias de retroalimentación.
+
+Es importante recalcar que la tensión de salida depende de y está limitada por la tensión de alimentación. 
+
+![image](https://user-images.githubusercontent.com/64505672/91810341-5393d900-ebf3-11ea-8bbe-043e85585b0b.png)
+
 Se pueden hacer diferentes configuraciones en los amplificadores para que cumplan determinadas funciones. En la siguiente grafica recuperada de Sadiku(2004), podemos ver un resumen de las configuraciones más comunes y las funciones que cumplen respectivamente
 
 ![image](https://user-images.githubusercontent.com/64505672/91803299-91dbc900-ebf0-11ea-8536-73a8117e712f.png)
 
+- Amplificador inversor: invierte la polaridad de la señal de entrada mientras la amplifica.
+- Amplificador no inversor: es un circuito de amplificador operacional diseñado para suministrar una ganancia en tensión positiva.
+- Amplificador sumador: es un circuito del amplificador operacional que combina varias entradas y produce una salida que es la suma ponderada de las entradas.
+- Amplificador diferencial: es un dispositivo que amplifica la diferencia entre dos entradas pero rechaza toda señal común a las dos entradas.
 
 
 
