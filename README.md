@@ -6,16 +6,15 @@ AUTORES: DAVID HINOJOSA,
 
 ## 1. PLANTEAMIENTO DEL PROBLEMA
 
-En los circuitos eléctricos existen elementos llamados capacitores e inductores, son usados en practicamente todos los circuitos de los diferentes electrodomesticos, por ello es importante aprender a realizar las mediciones de voltaje y corriente con estos elementos.
+El amplificador operacional es un componente activo que podemos encontrar en los circuitos eléctricos y además es uno de de los componentes de la instrumentación electrónica moderna. Por lo tanto, dominar sus aspectos fundamentales es decisivo para cualquier aplicación práctica de circuitos electrónicos.
 
 ## 2. OBJETIVOS
 ### Objetivo General
-- Analizar el comportamiento de la bobina y el capacitor en circuitos
+- Analizar el comportamiento de los amplificadores operacionales en circuitos eléctricos
 ### Objetivo Específico
-- Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
-- Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
-- Verificar las combinaciones serie y paralelo de bobinas y capacitores.
-- Familiarizarse con el uso de instrumentos de medida
+- Verificar el principio de funcionamiento de un amplificador operacional.
+- Analizar algunas aplicaciones básicas con el amplificador operacional.
+- Familiarizarse con el uso de instrumentos de medida.
 
 ## 3. MARCO TEÓRICO 
 Esta práctica se centra en la observación del comportamiento de ciertos elementos pasivos que encontramos en circuitos eléctricos, llamados capacitores e inductores, que tienen la capacidad de almacenar energia eléctrica, a diferencia de los resistores que se oponian al paso de la corriente (dispación de energia).
