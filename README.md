@@ -172,6 +172,9 @@ H. Amplificador operacional (741)
 
 ## 6. DESCRIPCION DE PREREQUISITOS Y CONFIGURACION
 
+![image](https://user-images.githubusercontent.com/66037763/91950626-0df41080-ecc6-11ea-9220-3c84850a7444.png)
+
+
 
 ![image](https://user-images.githubusercontent.com/66037763/91932063-c57b2980-ecaa-11ea-99ab-04698445d64f.png)
 
@@ -179,9 +182,16 @@ H. Amplificador operacional (741)
 Datasheet correspondiente al amplificador operacional LM324J, su función dentro de un circuito integrado 
 
 
+
+![image](https://user-images.githubusercontent.com/66037763/91950812-1ba99600-ecc6-11ea-9d2d-087dc8570684.png)
+
+
+
 ![image](https://user-images.githubusercontent.com/66037763/91931689-c2cc0480-eca9-11ea-9260-d8f52e22c826.png)
 
 Datasheet correspondiente al amplificador operacional 471, donde se menciona la función de sus pines.
+
+
 
 
 ANÁLISIS DE RESULTADOS
