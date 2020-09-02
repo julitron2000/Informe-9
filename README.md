@@ -206,15 +206,41 @@ PREGUNTAS
 
 1. Anote parámetros técnicos importantes de un amplificador operacional que deben ser tomados en cuenta al momento de utilizarlos en un proyecto.
 
+-El rango máximo y mínimo con el que puede trabajar el amplificador respecto al voltaje de entrada. 
+
+-El número de pines y la función de cada uno de estos.
+
+-Rango de temperaturas, valores de seguridad máximos con los que puede trabajar el amplificador operacional.
+
+-Consumo de potencia, potencia que requiere el amplificador o consumida por este.
 
 
 2. Investigue las características de amplificadores operacionales distintos a los utilizados en esta práctica.
 
+LM741
 
+Este dispositivo también es de uso común por sus parámetros regulares (estándar) pero su principal función recae en su alta impedancia.
+
+LM725
+
+Parecido al antes mencionado, con la diferencia de que mejoran sus parámetros, sin embargo presenta una menor impedancia comparado al LM741
+
+LF411
+
+Convergen los dos antes mencionados, parámetros mejorados con una alta impedancia lo hacen un amplificador útil para ciertas funciones particulares.
+
+NE5533
+
+Utilizado principalmente para aplicaciones donde no se requiera alta precisión ya que presenta parámetros de baja calidad y una impdedancia muy baja.
+ 
 
 3. Investigue otras aplicaciones con circuitos más complejos que utilizan amplificadores operacionales.
 
+-Amplificador seguidor de tensión, en este amplificador el voltaje de salida va a ser igual al de entrada ya que no hay resistencias de retroalimentación en su salida.
 
+-Amplificador de diferencia, amplifica la diferencia entre dos entradas pero rechaza toda señal común entre ellas.
+
+Entre otras se encuentran: comparador, conversor de corriente a tensión, derivador ideal, función exponencial y logarítmica.
 
 ## 7. CRONOGRAMA
 ![cronograma](https://user-images.githubusercontent.com/66037557/91936145-e5afe600-ecb4-11ea-959b-38640a675e32.png)
