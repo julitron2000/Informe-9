@@ -78,31 +78,31 @@ Se pueden hacer diferentes configuraciones en los amplificadores para que cumpla
 Circuito guía correspondiente al amplificador operacional lm 324 (caso 1). 
 
 
-![image](https://user-images.githubusercontent.com/66037763/91936379-50f9b800-ecb5-11ea-8554-e6a767e23905.png)
+![chrome_d8NVr7VCJh](https://user-images.githubusercontent.com/66037763/91936596-c9f90f80-ecb5-11ea-8027-0fc62b1476cb.png)
 
 
 Circuito guía correspondiente al amplificador operacional 741 (caso 2).
 
 
-![image](https://user-images.githubusercontent.com/66037763/91936399-60790100-ecb5-11ea-8566-76d0c47e17a5.png)
+![chrome_giR5p4kna0](https://user-images.githubusercontent.com/66037763/91936600-cc5b6980-ecb5-11ea-9956-d540b39bc1cd.png)
 
 
 Circuito guía correspondiente al aplificador operacional 741 con doble fuente alterna (caso 3).
 
 
-![image](https://user-images.githubusercontent.com/66037763/91936422-6cfd5980-ecb5-11ea-94ac-6bb926b64d0a.png)
+![image](https://user-images.githubusercontent.com/66037763/91936649-e8f7a180-ecb5-11ea-8bfd-aa2173f87e20.png)
 
 
 Circuito simulado con amplificador lm 324, caso 1, con osciloscopios conectados.
 
 
-![multisim_bMwOuYTUVI](https://user-images.githubusercontent.com/66037763/91929126-56e69d80-eca3-11ea-988d-bdf86c6b9570.png)
+![image](https://user-images.githubusercontent.com/66037763/91936677-f7de5400-ecb5-11ea-9570-eb4ce0f01fb8.png)
 
 
 Circuito simulado con amplificador 741, caso 2, con osciloscopios conectados.
 
 
-![multisim_Bg8h3b0Fyj](https://user-images.githubusercontent.com/66037763/91929283-adec7280-eca3-11ea-8d2e-b0ad4b07ab00.png)
+![image](https://user-images.githubusercontent.com/66037763/91936714-07f63380-ecb6-11ea-855c-046ae4eec969.png)
 
 
 
