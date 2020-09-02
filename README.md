@@ -217,7 +217,7 @@ PREGUNTAS
 
 
 ## 7. CRONOGRAMA
-![diagrama](https://user-images.githubusercontent.com/66037557/91257840-7f651980-e730-11ea-89ca-69b2c22909cf.png)
+![cronograma](https://user-images.githubusercontent.com/66037557/91936145-e5afe600-ecb4-11ea-959b-38640a675e32.png)
 
 
 ## 8.CONCLUSIONES
