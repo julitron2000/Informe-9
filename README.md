@@ -78,19 +78,19 @@ Se pueden hacer diferentes configuraciones en los amplificadores para que cumpla
 Circuito guía correspondiente al amplificador operacional lm 324 (caso 1). 
 
 
-![chrome_d8NVr7VCJh](https://user-images.githubusercontent.com/66037763/91918073-648e2a00-ec87-11ea-9e29-58cce0d0e097.png)
+![image](https://user-images.githubusercontent.com/66037763/91936379-50f9b800-ecb5-11ea-8554-e6a767e23905.png)
 
 
 Circuito guía correspondiente al amplificador operacional 741 (caso 2).
 
 
-![chrome_giR5p4kna0](https://user-images.githubusercontent.com/66037763/91918078-6657ed80-ec87-11ea-9846-422403577b08.png)
+![image](https://user-images.githubusercontent.com/66037763/91936399-60790100-ecb5-11ea-8566-76d0c47e17a5.png)
 
 
 Circuito guía correspondiente al aplificador operacional 741 con doble fuente alterna (caso 3).
 
 
-![multisim_cXs4h4vuQj](https://user-images.githubusercontent.com/66037763/91928937-e8094480-eca2-11ea-9d22-60046ef56daa.png)
+![image](https://user-images.githubusercontent.com/66037763/91936422-6cfd5980-ecb5-11ea-94ac-6bb926b64d0a.png)
 
 
 Circuito simulado con amplificador lm 324, caso 1, con osciloscopios conectados.
