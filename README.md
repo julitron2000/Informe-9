@@ -247,16 +247,14 @@ Entre otras se encuentran: comparador, conversor de corriente a tensión, deriva
 
 
 ## 8.CONCLUSIONES
-- Se puede concluir que en un circuito Dc los capacitores se comportan como circuitos abiertos y los inductores como cortocircuitos. Por otro lado en circuitos alimentados por corriente alterna se onservo que al existir una frecuencia diferente de 0 tanto el capacitor como elresistor se oponen al flujo de carriente, es decir que tienen una impedancia z.
-- Al observar las primeras 3 tablas de datos llenadas, se puede concluir que en el caso de un circuito con capacitores, el voltaje disminuye mientras que la corriente aumenta, en el caso de inductores sucede el proceso inverso, esto a su vez está relacionado con la reactancia obtenida.
-- Los errores tabulados en la tabla 4. son respecto a los voltajes rms en los dos tipos de circuitos (capacitivos e inductivos), se concluye que estos se encuentran en un rango aceptable y la razón principal de este error es por fallas realizadadas en los cálculos (consideración de decimales). 
+- Se puede concluir que todos los amplificadores operacionales tiene una ganancia que depende del tipo de circuito que utilicemos, a execpcion del seguidor de tension debido a que el voltaje se mantiente constante mientras que la corriente disminuye.
+- Se logró comprobar que al utilizar un amplificador operacional este amplia la onda notablemente en una proporcion directamente relacionada al circuito.
+- Se observó que hay varios tipos de amplificadores operacionales que son muy utilizados para temas donde se requiera alta presición, pues con ellos se pueden realizar operaciones matemáticas como la diferenciación.
 
 ## 9.RECOMENDACIONES
 - Utilizar un simulador mas completo que tinker cad.
 
-- A la hora de medir la amplitud de la onda senoidal medir con cuidado para reducir el error.
-
-- Revisar previamente el uso del osciloscopio para no cometer errores.
+- Tener mucha precaución cuando conectemos el circuito para no cometer errores en las mediciones.
 
 ## 10. BIBLIOGRAFÍA
 
