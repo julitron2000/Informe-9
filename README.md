@@ -20,7 +20,7 @@ El amplificador operacional es un componente activo que podemos encontrar en los
 
 Amplificadores Operacionales
 
-Un operador operacional es un elemento activo de circuitos de suma importancia por lo que es común encontrarlos en diseños prácticos de circuitos a causa de su versatilidad, bajo costo, facilidad de uso y grato manejo.
+Un amplificador operacional es un elemento activo de circuitos de suma importancia por lo que es común encontrarlos en diseños prácticos de circuitos a causa de su versatilidad, bajo costo, facilidad de uso y grato manejo.
 
 Sadiku (2004) define al amplificador operacional:
 
@@ -72,42 +72,41 @@ Se pueden hacer diferentes configuraciones en los amplificadores para que cumpla
 
 ## 4. DIAGRAMAS
 
-
-![chrome_jj2CMayvW6](https://user-images.githubusercontent.com/66037763/91268424-ef789d00-e73a-11ea-8903-91b9b250db91.png)
-
-
-Primer circuito, se tiene una fuente de voltaje AC y un par de capacitores de 10 μF en paralelo. De igual manera debe colocar el osciloscipio en paralelo al igual que el multímetro cuando se calcule voltaje. En el caso de medir corriente se coloca el multímetro en serie. 
+![chrome_8faVvy1m9G](https://user-images.githubusercontent.com/66037763/91918072-622bd000-ec87-11ea-8570-2f34a4af41cb.png)
 
 
-![chrome_LmmTjpbTyf](https://user-images.githubusercontent.com/66037763/91268391-e12a8100-e73a-11ea-8d38-57a0bebe17d9.png)
+Circuito guía correspondiente al amplificador operacional lm 324 (caso 1). 
 
 
-Para el segundo circuito, se repite el proceso antes mencionado, la diferencia es que los componentes son un par de inductores de 100 mH. A continuación, ejemplos de los circuitos simulados con su respectiva señal en el osciloscopio:
-
-CONDUCTORES
-
-En 50 Hz:
-
-![image](https://user-images.githubusercontent.com/66037763/91269579-ff917c00-e73c-11ea-91ab-34377e1c3ab6.png)
+![chrome_d8NVr7VCJh](https://user-images.githubusercontent.com/66037763/91918073-648e2a00-ec87-11ea-9e29-58cce0d0e097.png)
 
 
+Circuito guía correspondiente al amplificador operacional 741 (caso 2).
+
+
+![chrome_giR5p4kna0](https://user-images.githubusercontent.com/66037763/91918078-6657ed80-ec87-11ea-9846-422403577b08.png)
+
+
+Circuito guía correspondiente al aplificador operacional 741 con doble fuente alterna (caso 3).
+
+
+![multisim_cXs4h4vuQj](https://user-images.githubusercontent.com/66037763/91928937-e8094480-eca2-11ea-9d22-60046ef56daa.png)
+
+
+Circuito simulado con amplificador lm 324, caso 1, con osciloscopios conectados.
+
+
+![multisim_bMwOuYTUVI](https://user-images.githubusercontent.com/66037763/91929126-56e69d80-eca3-11ea-988d-bdf86c6b9570.png)
+
+
+Circuito simulado con amplificador 741, caso 2, con osciloscopios conectados.
+
+
+![multisim_Bg8h3b0Fyj](https://user-images.githubusercontent.com/66037763/91929283-adec7280-eca3-11ea-8d2e-b0ad4b07ab00.png)
 
 
 
-![image](https://user-images.githubusercontent.com/66037763/91269389-a75a7a00-e73c-11ea-971b-de2597fe50ef.png)
-
-
-
-CAPACITORES
-
-En 50 Hz:
-
-![image](https://user-images.githubusercontent.com/66037763/91270337-18e6f800-e73e-11ea-8019-84a06952a325.png)
-
-
-
-
-![image](https://user-images.githubusercontent.com/66037763/91270392-2bf9c800-e73e-11ea-84d4-a0235c081321.png)
+Circuito simulado con amplificador 741, caso 3, con osciloscopios conectados.
 
 
 
@@ -119,15 +118,7 @@ A. Generador de Señales
 
 
 
-B. Multímetros Digitales
-
-
-
-![Multimetro](https://user-images.githubusercontent.com/66037763/86204443-252f4a00-bb2d-11ea-8508-0edf4c96af71.png)
-
-
-
-C. Resistor de 100 Ω
+B. Resistores
 
 
 ![chrome_YBCCxA2dTh](https://user-images.githubusercontent.com/66037763/91255172-cdc2ea00-e729-11ea-8fde-001f1ab47c6a.png)
@@ -166,80 +157,63 @@ F. Capacitores
 
 
 
-G. Bobinas/inductores
+G. Amplificador operacional (LM324J)
 
 
-![chrome_KUfo7uFUon](https://user-images.githubusercontent.com/66037763/91255513-8db03700-e72a-11ea-8d4b-121f8973c0c9.png)
+![multisim_ox32OV8e6p](https://user-images.githubusercontent.com/66037763/91929560-44b92f00-eca4-11ea-9045-cc660fae2ae5.png)
+
+
+H. Amplificador operacional (741)
+
+
+![multisim_V0KRjblbKU](https://user-images.githubusercontent.com/66037763/91929608-60243a00-eca4-11ea-9114-c8f56ccb13f8.png)
 
 
 
 ## 6. DESCRIPCION DE PREREQUISITOS Y CONFIGURACION
 
 
-ANALISIS DE RESULTADOS
+![image](https://user-images.githubusercontent.com/66037763/91932063-c57b2980-ecaa-11ea-99ab-04698445d64f.png)
 
-1.
-Tabla 1. Datos obtenidos del circuito con capacitancia
-| PARÁMETRO ELÉCTRICO    |    0        |      10          |     50          |     100           |      500         |        1000            |
-|           ---          |     ---     |       ---        |    ---          |    ---            |    ---           |         ---            |     
-|       Vp               |    0        |      9.809 V     |     8.338 V     |     6.090 V       |     1.880 V      |       764.903 mV       |            
-|       Vo               |    0        |      7.014 V     |     5.965 V     |     4.368 V       |     1.097 V      |       553.740 mV       |              
-|      Corriente         |    0        |      8.929 mA    |     37.968 mA   |     55.604 mA     |     69.851 mA    |       70.493 mA        |              
- 
-Tabla 2. Datos obtenidos del circuito con inductancia
-| PARÁMETRO ELÉCTRICO |    0       |      10     |     50     |     100      |      500     |    1000      |
-|           ---       |     ---    |       ---   |    ---     |    ---       |    ---       |     ---      |     
-|       Vp            |      0     |  317.580 mV |  1.556 V   |   3.006 V    |   8.407 V    |  9.108 V     |            
-|       Vo            |      0     |  224.926 mV |  1.111 V   |   2.144 V    |   5.987 V    |  6.746 V     |              
-|      Corriente      |      0     |  70.673 mA  |  69.831 mA |  67.379 mA   |   37.622 mA  |   21.196 mA  |   
 
-Se puede observar, en la tabla 1. que es referente al circuito con capacitancia, que mientras la frecuencia aumenta el voltaje disminuye y la corriente aumenta proporcionalmente. Por otro lado en los datos de la tabla 2. referente al circuito con inductores, mientras la frecuencia aumenta tambien lo hace su voltaje, pero la corriente disminuye. De tal manera que la diferencia principal es en la proporcionalidad de la frecuencia con sus parámetros eléctricos; en el caso de los capacitores, el voltaje es inversamente proporcional pero la corriente es directa, y en el caso de los inductores el voltaje es directamente proporcional y la corriente inversa. 
+Datasheet correspondiente al amplificador operacional LM324J, su función dentro de un circuito integrado 
 
-2. 
 
-Tabla 3. Reactancias
-| PARÁMETRO ELÉCTRICO |    0       |      10     |     50     |     100      |      500     |    1000      |
-|           ---       |     ---    |       ---   |    ---     |    ---       |    ---       |     ---      |     
-|         X (C)       |    0       | 785.53 Ω    |  157.11 Ω  |   78.56 Ω    |   15.7 Ω     |    7.86 Ω    |   
-|         X (L)       |    0       | 3.18 Ω      |   15.91 Ω  |   31.82 Ω    |  159.14 Ω    |   318.27 Ω   |
+![image](https://user-images.githubusercontent.com/66037763/91931689-c2cc0480-eca9-11ea-9260-d8f52e22c826.png)
 
-Inductancia equivalente = 50 mH
+Datasheet correspondiente al amplificador operacional 471, donde se menciona la función de sus pines.
 
-Capacitancia equivalente = 20 uF
 
-Es visible en la tabla 3. que la reactancia capacitiva disminuye mientras la frecuencia aumenta, por otro lado la reactancia inductiva aumenta siguiendo la misma relación. Esto puede explicar la razón de cambio del voltaje en los circuitos vistos en la tabla 1. y 2. 
+ANÁLISIS DE RESULTADOS
+
+1. Analice y compare las formas de onda obtenidas en la práctica con los resultados obtenidos en el trabajo preparatorio. Comente dicha comparación.
+
+![image](https://user-images.githubusercontent.com/66037763/91930199-d1182180-eca5-11ea-91de-597a395c23fb.png)
+
+Se observa en la imágen la forma de onda que toma la entrada y salida de tensión. El canal B corresponde a la entrada en el amplificador, y este valor es aproximádamente 
+1V (voltaje entregado por la fuente) mientras que en el canal A, se observa el voltaje de salida, y es notable cuanto ha aumentado (una proporción de 4.3). A este circuito operacional se lo llama amplificador "inversor".
+
+![image](https://user-images.githubusercontent.com/66037763/91935695-e1cf9400-ecb3-11ea-8dd9-71ce91befe13.png)
+
+De igual manera, el canal B corresponde a la entrada de tensión al amplificador y el canal A de su salida. Sus valores son de 5 V y 13.12 V correspondientemente, donde se amplifica el valor en una proporción de 2.624. Es importante destacar la forma de la onda del voltaje de salida (13.12 V) en la cual toma una figura rectangular. A este anplificador operacional se lo llama "integrador".
+
+
+![image](https://user-images.githubusercontent.com/66037763/91933818-679d1080-ecaf-11ea-942f-19aa378380e8.png)
+
+Tanto en el canal B como en el C se observa una tensión aproximada de 1 V, las cuales entran al amplificador donde sale un voltaje de 8.2 V. La proporción de amplificación es de 8.2 (la mayor hasta ahora). En este circuito, los voltajes en paralelo se suman de tal manera que el voltaje de salida es mayor que en los otros voltajes. A este tipo de amplificador se lo llama de "suma". 
 
 PREGUNTAS
 
+1. Anote parámetros técnicos importantes de un amplificador operacional que deben ser tomados en cuenta al momento de utilizarlos en un proyecto.
 
-1.- Justifique los errores cometidos en las mediciones.
 
-**Cálculo de error**
-Se utiliza el parámetro de voltaje para hacer el respectivo análisis de errores:
 
-Tabla 4. Errores de Vo
-| PARÁMETRO ELÉCTRICO |    10      |     50      |     100    |      500     |    1000      |
-|           ---       |     ---    |       ---   |    ---     |    ---       |    ---       |         
-|        E %Vo (C)    | 1.1119 %   | 1.1591 %    | 1.4129 %   |  2.1181 %    |    2.3245 %  |           
-|        E %Vo (L)    | 0.1613 %   | 0.9668 %    | 0.8599 %   |  0.7074 %    |    4.5311 %  |           
+2. Investigue las características de amplificadores operacionales distintos a los utilizados en esta práctica.
 
-2.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
-Cuando se tiene capacitores, en corriente contínua se considera un circuito abierto donde estén ubicados y es por esto que resulta un voltaje 0, en el caso de los inductores se considera un corto circuito, es decir que se considera un alambre sin impedancia (continúa en serie) y esta la razón por la que el multímetro mide 0 en este segmento.
 
-3.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+3. Investigue otras aplicaciones con circuitos más complejos que utilizan amplificadores operacionales.
 
-En corriente alterna, existe una frecuencia diferente a 0 por lo que tanto el capacitor como la bobina van a tener una impedancia que es equivalente a la resistencia en DC, por lo que ambos actúan de forma resistiva a la corriente en AC. 
-
-4.- ¿Qué cree usted que ocurriría con el voltaje 𝑉𝑜 y la corriente de la resistencia en los
-circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores
-distintos?
-
-Los valores de corriente y voltaje cambiarían, sin embargo su relación proporcional al cambio de frecuencia se mantiene ya que esto es característico del elemento e independiente de su magnitud capacitiva o inductiva. 
-
-5.- ¿Qué son los valores eficaces de voltaje y corriente?
-
-Son los valores otorgados por el multímetro, basicamente son valores equivalentes a los de corriente continua de una forma de onda en corriente alterna.
 
 
 ## 7. CRONOGRAMA
